@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310745858069",
+    "project_id": "learn-firestroe",
+    "storage_bucket": "learn-firestroe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310745858069:android:072c6b779c81f0e6718e1c",
+        "android_client_info": {
+          "package_name": "com.example.learn_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiNPDKYh1x9u7LBUaBdiZUBuOKuQpL7xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
